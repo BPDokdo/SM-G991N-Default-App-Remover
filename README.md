@@ -8,11 +8,11 @@ Appa by Samsung
 
 게임런처 .\adb shell pm uninstall --user 0 com.samsung.android.game.gamehome
 
+라디오 .\adb shell pm uninstall --user 0 com.sec.android.app.fm
+
 빅스비 .\adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
 
 AR Zone .\adb shell pm uninstall --user 0 com.samsung.android.arzone
-
-FM 라디오 .\adb shell pm uninstall --user 0 com.sec.android.app.fm
 
 Samsung Free .\adb shell pm uninstall --user 0 com.samsung.android.app.spage
 
