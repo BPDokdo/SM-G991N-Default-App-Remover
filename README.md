@@ -10,15 +10,11 @@ Appa by Samsung
 
 빅스비 .\adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
 
-팁 .\adb shell pm uninstall --user 0 com.samsung.android.app.tips
-
 AR Zone .\adb shell pm uninstall --user 0 com.samsung.android.arzone
 
 FM 라디오 .\adb shell pm uninstall --user 0 com.sec.android.app.fm
 
 Samsung Free .\adb shell pm uninstall --user 0 com.samsung.android.app.spage
-
-Samsung Notes .\adb shell pm uninstall --user 0 com.samsung.android.app.notes
 
 ----------------------------------------------------------------------------------------------------
 
