@@ -9,6 +9,8 @@ Appa by Samsung
 
 라디오 .\adb shell pm uninstall --user 0 com.sec.android.app.fm
 
+메세지 .\adb shell pm uninstall --user 0 com.samsung.android.messaging
+
 빅스비 .\adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
 
 AR Zone .\adb shell pm uninstall --user 0 com.samsung.android.arzone
